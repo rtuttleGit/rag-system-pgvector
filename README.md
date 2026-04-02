@@ -54,11 +54,11 @@ Toggle the mode in [`rag_chat.py`](rag_chat.py) by setting `is_hybrid = False` (
 
 **Similarity-only retrieval** (example):
 
-![CLI demo: similarity scores on retrieved chunks](assets/demo-similarity-search.png)
+![CLI demo: similarity scores on retrieved chunks](rag-pipeline/assets/demo-similarity-search.png)
 
 **Hybrid retrieval** (semantic + keyword, RRF combined scores):
 
-![CLI demo: hybrid combined scores on retrieved chunks](assets/demo-hybrid-search.png)
+![CLI demo: hybrid combined scores on retrieved chunks](rag-pipeline/assets/demo-hybrid-search.png)
 
 ## Project Structure
 
